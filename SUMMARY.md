@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Overview](README.md)
+* [🎴 Overview](README.md)
 * [About Collective](about-collective.md)
 
 ## Products
