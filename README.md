@@ -1,7 +1,6 @@
 ---
-cover: >-
-  .gitbook/assets/scenery-with-path-dreamy-foggy-forest-fall-colors-october-nature-background.jpg
-coverY: -212
+cover: .gitbook/assets/min.jpg
+coverY: -151
 ---
 
 # 🎴 Overview

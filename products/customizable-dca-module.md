@@ -1,3 +1,3 @@
-# Hydra FX
+# Customizable DCA Module
 
 Contents will be updated.

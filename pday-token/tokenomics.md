@@ -1,2 +1,3 @@
-# Tokenomics
+# 🪙 Tokenomics
 
+Contents will be updated.

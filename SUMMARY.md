@@ -5,33 +5,37 @@
 
 ## Products
 
-* [OTC Portal](products/otc-portal.md)
-* [DCA Modules](products/dca-modules.md)
-* [AI Strategies](products/ai-strategies.md)
+* [Advanced OTC Portal](products/advanced-otc-portal.md)
+* [Customizable DCA Module](products/customizable-dca-module.md)
+* [AI Powered Strategy Portal](products/ai-powered-strategy-portal.md)
 * [Limit Order Aggregation](products/limit-order-aggregation.md)
 
 ## Features
 
 * [AI Modules](features/ai-modules.md)
+* [Hydra FX](features/hydra-fx.md)
 * [Strategy Manager](features/strategy-manager.md)
 * [Order Execution](features/order-execution.md)
-* [Hydra FX](features/hydra-fx.md)
 
 ## PDAY Token
 
-* [Overview](pday-token/overview.md)
-* [Tokenomics](pday-token/tokenomics.md)
-* [Token Utility](pday-token/token-utility.md)
-* [Sacrifice Details](pday-token/sacrifice-details.md)
+* [💠 Overview](pday-token/overview.md)
+* [🪙 Tokenomics](pday-token/tokenomics.md)
+* [🐇 Token Utility](pday-token/token-utility.md)
+* [🌕 Sacrifice Details](pday-token/sacrifice-details.md)
 
 ***
 
 * [Roadmap](roadmap.md)
-* [Contracts](contracts.md)
-* [Branding Sources](branding-sources.md)
-* [Bug Bounty](bug-bounty.md)
+* [📑 Contracts](contracts.md)
+* [🛡 Audit](audit.md)
 
-## Group 1
+## Support
+
+* [🌉 Branding Sources](support/branding-sources.md)
+* [🐛 Bug Bounty](support/bug-bounty.md)
+
+## Reference
 
 * [Website](https://pday.ai)
 * [Twitter](https://twitter.com/pdayai)

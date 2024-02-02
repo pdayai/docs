@@ -1,8 +1,8 @@
 ---
-cover: .gitbook/assets/min.jpg
+cover: ../.gitbook/assets/min.jpg
 coverY: -124.94117647058823
 ---
 
-# 📑 Contracts
+# 🌉 Branding Sources
 
 Contents will be updated.
