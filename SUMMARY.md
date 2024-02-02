@@ -10,12 +10,12 @@
 * [AI Powered Strategy Portal](products/ai-powered-strategy-portal.md)
 * [Limit Order Aggregation](products/limit-order-aggregation.md)
 
-## Features
+## Tech
 
-* [AI Modules](features/ai-modules.md)
-* [Hydra FX](features/hydra-fx.md)
-* [Strategy Manager](features/strategy-manager.md)
-* [Order Execution](features/order-execution.md)
+* [AI Modules](tech/ai-modules.md)
+* [Hydra FX](tech/hydra-fx.md)
+* [Strategy Manager](tech/strategy-manager.md)
+* [Order Execution](tech/order-execution.md)
 
 ## PDAY Token
 
