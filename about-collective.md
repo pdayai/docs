@@ -3,7 +3,7 @@ cover: .gitbook/assets/min.jpg
 coverY: -151.4884488448845
 ---
 
-# About Collective
+# 🔆 About Collective
 
 Pday, the second revolutionary product of the Piteas team, is a derivative of Piteas itself. Piteas quickly achieved remarkable milestones for Pulsechain, becoming the protocol with the highest transactions/volume on the chain. Over time, the team gained significant experience with Pulsechain, identified needs within the ecosystem, and implemented them in the new project.
 

@@ -1,14 +1,15 @@
 # Table of contents
 
 * [🎴 Overview](README.md)
-* [About Collective](about-collective.md)
+* [🔆 About Collective](about-collective.md)
 
-## Products
+## Pday Openbook
 
-* [Advanced OTC Portal](products/advanced-otc-portal.md)
-* [Customizable DCA Module](products/customizable-dca-module.md)
-* [AI Powered Strategy Portal](products/ai-powered-strategy-portal.md)
-* [Limit Order Aggregation](products/limit-order-aggregation.md)
+* [Introduction](pday-openbook/introduction.md)
+* [☑ OTC Portal](pday-openbook/otc-portal.md)
+* [☑ DCA Module](pday-openbook/dca-module.md)
+* [☑ Limit Order Aggregation](pday-openbook/limit-order-aggregation.md)
+* [☑ Strategy Portal](pday-openbook/strategy-portal.md)
 
 ## Tech
 

@@ -1,3 +1,3 @@
-# Advanced OTC Portal
+# ☑ Strategy Portal
 
 Contents will be updated.
