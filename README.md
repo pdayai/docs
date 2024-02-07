@@ -5,6 +5,8 @@ coverY: -151
 
 # 🎴 Overview
 
+Welcome to the Pday documentation, your comprehensive guide to exploring Pulsechain's newest high-performance orderbook protocol. Navigate your way through these docs to learn everything there is to know about Pday.\
+\
 Pday Openbook Protocol, revolutionizing trading with a powerful OTC module, DCA set, and an AI-powered strategy portal on Pulsechain.
 
 Pday aims to consolidate a total of 1 mojor and 4 separate modules into a single platform, initially three and subsequently one, making them available to the entire Pulsechain community.
