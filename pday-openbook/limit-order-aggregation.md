@@ -2,7 +2,7 @@
 
 New Limit Order Model: Offering an Alternative Approach with Pday
 
-Unlike traditional limit order models, Pday introduces an alternative approach to the entire community.
+Unlike traditional limit order protocols, Pday introduces an alternative & unique approach to the Pulsechain community.
 
 Similar to the familiar limit order execution with aggregator seen in CowSwap, Pday provides users with both limit order options and the ability to execute them via aggregator protocols. At this stage, Pday will directly integrate with Piteas APIs to offer its services. Additionally, it will be compatible with other AMM or aggregator protocols beyond Piteas.
 

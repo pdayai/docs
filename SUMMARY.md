@@ -7,7 +7,7 @@
 
 * [🔖 The Openbook Protocol](pday-openbook/the-openbook-protocol.md)
 * [☑ OTC Portal](pday-openbook/otc-portal.md)
-* [☑ DCA Modules](pday-openbook/dca-modules.md)
+* [☑ DCA Modules](pday-openbook/dca-module.md)
 * [☑ AI Strategy](pday-openbook/ai-strategy.md)
 * [☑ Limit Order Aggregation](pday-openbook/limit-order-aggregation.md)
 
