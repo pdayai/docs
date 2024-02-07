@@ -9,6 +9,7 @@ Pday Openbook Protocol, revolutionizing trading with a powerful OTC module, DCA 
 
 Pday aims to consolidate a total of 4 separate modules into a single platform, initially three and subsequently one, making them available to the entire Pulsechain community.
 
+* <mark style="color:blue;">**The Openbook Protocol**</mark>
 * **Advanced OTC Portal**
 * **Customizable DCA Module**,
 * **Limit Order Aggregation Protocol**

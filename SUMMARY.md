@@ -5,7 +5,7 @@
 
 ## Pday Openbook
 
-* [Introduction](pday-openbook/introduction.md)
+* [🔖 The Openbook Protocol](pday-openbook/the-openbook-protocol.md)
 * [☑ OTC Portal](pday-openbook/otc-portal.md)
 * [☑ DCA Module](pday-openbook/dca-module.md)
 * [☑ Limit Order Aggregation](pday-openbook/limit-order-aggregation.md)
