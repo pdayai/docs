@@ -16,13 +16,17 @@ _Please note that the following information is provided for informational purpos
 
 Pday Sacrifice Round is designed to provide an opportunity for participants to show their support for the Pday protocol. It is important to understand that the sacrifice round is not an investment or a means to earn profits. Participants are contributing tokens to the protocol with no expectation of financial returns. Please carefully read the following information before sacrifice.
 
+> Sacrifice assets can never be used for personal purposes outside of protocol needs and expenses! This is one of our fundamental principles, as seen in the Piteas process, and is non-negotiable. During the complex development process of Pday, there will be significant expenses, and both these expenses and the provision of liquidity during the TGE stage and afterwards will be funded using sacrifice assets. In the event of any excess assets remaining from this planning process, there are three possibilities. The first is allocating assets for liquidity and treasury. The second is funding the development process of new products belonging to the Pday protocol. The final option is to fairly payback those who participated in the sacrifice round.
+
 Get started on **Pday Sacrifice Portal** now 👇
 
-Sacrifice Portal: [<mark style="color:green;">**sacrifice.pday.ai**</mark>](https://sacrifice.pday.ai) <mark style="color:green;">**✔**</mark>
+Sacrifice Portal: [<mark style="color:green;">**sacrifice.pday.ai**</mark>](https://sacrifice.pday.ai) <mark style="color:green;">**✔**</mark>**  **_<mark style="color:red;">**(Not live yet!)**</mark>_
 
-Sacrifice Wallet: ### NOT LIVE YET! ###
+Sacrifice Wallet: #
 
-<figure><img src="../.gitbook/assets/Pday-Sacrifice - frame at 0m7s.jpg" alt=""><figcaption></figcaption></figure>
+
+
+***
 
 #### Objective:
 
@@ -30,9 +34,9 @@ The Sacrifice Round is designed to demonstrate your commitment to the Pday proto
 
 #### Duration and Multiplier Rate:
 
-Sacrifice round will last for a total of 31 days, starting from **Mar 01, 15:00 UTC**, until **Apr 01, 15:00 UTC**. Each day, the Multiplier Rate will decrease gradually as follows:
+Sacrifice round will last for a total of 31 days, starting from **TBA**, until **TBA**. Each day, the Multiplier Rate will decrease gradually as follows:
 
-<table data-full-width="false"><thead><tr><th width="162.33333333333331">Period</th><th width="415" align="center">Date</th><th align="center">Multiplier Rate</th></tr></thead><tbody><tr><td>Day 1</td><td align="center">Mar 01, 15:00 UTC - Mar 02, 15:00 UTC</td><td align="center">1,30X</td></tr><tr><td>Day 2</td><td align="center">Mar 02, 15:00 UTC - Mar 03, 15:00 UTC</td><td align="center">1,29X</td></tr><tr><td>Day 3</td><td align="center">Mar 03, 15:00 UTC - Mar 04, 15:00 UTC</td><td align="center">1,28X</td></tr><tr><td>. . . </td><td align="center">. . . </td><td align="center">. . . </td></tr><tr><td>Day 29</td><td align="center">Mar 29, 15:00 UTC - Mar 30, 15:00 UTC</td><td align="center">1,02X</td></tr><tr><td>Day 30</td><td align="center">Mar 30, 15:00 UTC - Mar 31, 15:00 UTC</td><td align="center">1,01X</td></tr><tr><td>Day 31</td><td align="center">Mar 31, 15:00 UTC - Apr 01, 15:00 UTC</td><td align="center">1,00X</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="162.33333333333331">Period</th><th width="415" align="center">Date</th><th align="center">Multiplier Rate</th></tr></thead><tbody><tr><td>Day 1</td><td align="center">TBA</td><td align="center">1,30X</td></tr><tr><td>Day 2</td><td align="center">TBA</td><td align="center">1,29X</td></tr><tr><td>Day 3</td><td align="center">TBA</td><td align="center">1,28X</td></tr><tr><td>Day 4</td><td align="center">TBA</td><td align="center">1,27X</td></tr><tr><td>. . . </td><td align="center">. . . </td><td align="center">. . . </td></tr><tr><td>Day 28</td><td align="center">TBA</td><td align="center">1,03X</td></tr><tr><td>Day 29</td><td align="center">TBA</td><td align="center">1,02X</td></tr><tr><td>Day 30</td><td align="center">TBA</td><td align="center">1,01X</td></tr><tr><td>Day 31</td><td align="center">TBA</td><td align="center">1,00X</td></tr></tbody></table>
 
 {% hint style="info" %}
 Please note that the Pday Sacrifice Round will be active during this period, and once it is completed, no further sacrifices will be accepted.
