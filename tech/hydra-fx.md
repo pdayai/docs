@@ -1,4 +1,4 @@
-# Hydra FX
+# 🔆 Hydra FX
 
 HydraX, named after the multi-headed creature in Greek mythology, forms the cornerstone of the Pday protocol. It serves as a synaptic task executor during the phase of transferring all core products to the major product, Openbook.
 

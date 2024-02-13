@@ -1,4 +1,4 @@
-# AI Modules
+# 🤖 AI Modules
 
 The Pday protocol is fully equipped with AI capabilities across all major and core products.
 
