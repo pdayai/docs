@@ -16,7 +16,11 @@ _Please note that the following information is provided for informational purpos
 
 Pday Sacrifice Round is designed to provide an opportunity for participants to show their support for the Pday protocol. It is important to understand that the sacrifice round is not an investment or a means to earn profits. Participants are contributing tokens to the protocol with no expectation of financial returns. Please carefully read the following information before sacrifice.
 
-> Sacrifice assets can never be used for personal purposes outside of protocol needs and expenses! This is one of our fundamental principles, as seen in the Piteas process, and is non-negotiable. During the complex development process of Pday, there will be significant expenses, and both these expenses and the provision of liquidity during the TGE stage and afterwards will be funded using sacrifice assets. In the event of any excess assets remaining from this planning process, there are three possibilities. The first is allocating assets for liquidity and treasury. The second is funding the development process of new products belonging to the Pday protocol. The final option is to fairly payback those who participated in the sacrifice round.
+> _Sacrifice assets can never be used for personal purposes outside of protocol needs and expenses! This is one of our fundamental principles, as seen in the Piteas process, and is non-negotiable. During the complex development process of Pday, there will be significant expenses, and both these expenses and the provision of liquidity during the TGE stage and afterwards will be funded using sacrifice assets._
+>
+> _In the event of any excess assets remaining from this planning process, there are three possibilities. The first is allocating assets for liquidity and treasury. The second is funding the development process of new products belonging to the Pday protocol. The final option is to fairly payback those who participated in the sacrifice round._
+
+
 
 Get started on **Pday Sacrifice Portal** now 👇
 
@@ -54,8 +58,9 @@ After the completion of the Sacrifice phase, a bonus reward will be provided to 
 
 * The 1st ranked wallet will receive an additional 10% bonus.
 * Wallets ranked 2nd to 5th will receive an additional 8% bonus.
-* Wallets ranked 5th to 10th will receive an additional 5% bonus.\
+* Wallets ranked 5th to 10th will receive an additional 5% bonus.
 
+***
 
 #### Wallet Restrictions
 
@@ -68,6 +73,12 @@ Sacrifice Points will be calculated based on the USD value at the time of the tr
 #### Final Stage
 
 After the completion of the Pday Sacrifice Round, there will be a one-week break to consolidate the contributions. A portion of the assets will be allocated to provide liquidity for the token's swap operations across multiple decentralized exchanges (DEX) protocols. Additionally, a portion of the assets will be held in the treasury for potential future listings on both centralized and decentralized exchanges.
+
+#### The Use of Sacrifice Assets:
+
+The assets collected in the sacrifice wallet will be allocated to fund the development process and beyond for Pday. These funds will be used to cover expenses during the period leading up to the protocol launch, finance new hires and investments, and cover the costs of the audit process. After the launch, they will be allocated to the treasury both as collateral to sustain the protocol and for basic expenses. Additionally, sacrifice assets will be largely used to provide liquidity during the PDAY token's TGE phase.
+
+To avoid creating selling pressure on HEX and Pulsechain assets, we will pay all expenses using stable assets. We will provide ecosystem tokens alongside PDAY during the liquidity generation phase, thereby strengthening these ecosystem assets. In summary, safeguarding ecosystem assets is one of our top priorities in our planning.
 
 ***
 

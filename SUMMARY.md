@@ -23,6 +23,7 @@
 * [🪙 Tokenomics](pday-token/tokenomics.md)
 * [🐇 Token Utility](pday-token/token-utility.md)
 * [🌕 Sacrifice Details](pday-token/sacrifice-details.md)
+* [💬 Manifest & FAQ](pday-token/manifest-and-faq.md)
 
 ***
 
