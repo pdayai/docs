@@ -6,72 +6,73 @@ We have tried to define different stages for both the major product, Openbook Pr
 
 #### General
 
-* [x] Initiating the branding and marketing process
-* [x] Releasing documentation
-* [x] Launching the website
-* [x] Announcing details about the protocol
-* [ ] Commencing the sacrifice process
-* [ ] PDAY token deployment & audit
-* [ ] Token and liquidity generation event
+* [x] Begin branding and marketing process
+* [x] Release documentation
+* [x] Launch website
+* [x] Announce protocol details
+* [ ] Start the sacrifice process
+* [ ] Deployment: Deploy token contract
+* [ ] Security: Audit for token contract
+* [ ] Launch: Token and liquidity generation event
 
 #### **The Openbook Protocol**
 
-* [x] Initiating the research process
-* [x] Creating the protocol architecture
-* [ ] Determining the AI models
-* [ ] Integrating the model with HydraX
-* [ ] Preparing the on-chain architecture
-* [ ] Developing UI improvements
-* [ ] Preparing contracts and completing the audit process
-* [ ] Transitioning to detailed testing phase covering the entire protocol architecture
+* [x] Initiate research process
+* [x] Develop protocol architecture
+* [ ] Determine AI models
+* [ ] Integrate model with HydraX
+* [ ] Prepare on-chain architecture
+* [ ] Enhance UI
+* [ ] Prepare and audit contracts
+* [ ] Enter detailed testing phase for entire protocol architecture
 * [ ] Beta release for Pday Openbook
 * [ ] Mainnet Launch
 
 #### **Advanced OTC Portal**
 
-* [x] Initiation of research and development process
-* [x] Ecosystem analysis and determination of requirements
-* [x] Preparation of protocol architecture
-* [x] Planning of smart contracts
-* [x] Preparation of order entry and storage model
-* [ ] Finalization of on-chain architecture
-* [ ] Completion of UI improvements
-* [ ] Preparation of contracts and completion of audit process
-* [ ] Transition to detailed testing phase covering the entire protocol architecture
+* [x] Initiate research and development
+* [x] Analyze ecosystem and determine requirements
+* [x] Prepare protocol architecture
+* [x] Plan smart contracts
+* [x] Develop order entry and storage model
+* [ ] Finalize on-chain architecture
+* [ ] Complete UI enhancements
+* [ ] Prepare and audit contracts
+* [ ] Enter detailed testing phase for entire protocol architecture
 * [ ] Beta release
 * [ ] Mainnet Launch
-* [ ] Completion of integration with the Openbook protocol
+* [ ] Integrate with the Openbook protocol
 
 #### **Customizable DCA Module**
 
-* [x] Preparation of protocol architecture
-* [ ] Preparation of smart contracts
-* [ ] Completion of UI improvements
-* [ ] Completion of security and audit processes
+* [x] Develop protocol architecture
+* [ ] Create smart contracts
+* [ ] Enhance UI
+* [ ] Complete security and audit processes
 * [ ] Beta release
 * [ ] Mainnet Launch
-* [ ] Completion of integration of the model into Openbook
-* [ ] Evolution of strategies into a developable and user-programmable model
+* [ ] Integrate module into Openbook
+* [ ] Evolve strategies into user-programmable model
 
 #### **AI Powered Strategy Portal**
 
-* [x] Preparation of protocol architecture
-* [x] Determination of AI-powered strategies
-* [ ] Development of AI modules
-* [ ] Onchain/offchain integrations and build data transfer protocol
-* [ ] Module Launch
-* [ ] Evolution of strategies into a developable and user-programmable model
+* [x] Develop protocol architecture
+* [ ] Define AI-powered strategies
+* [ ] Develop AI modules
+* [ ] Integrate on-chain/off-chain and build data transfer protocol
+* [ ] Launch module
+* [ ] Evolve strategies into user-programmable model
 
 #### **Limit Order Aggregation Protocol**
 
-* [x] Preparation of protocol architecture
-* [x] Preparation of liquidity access module
-* [x] Determination and preparation of on-chain models
-* [x] Creation of an integrated executor with Piteas Core
+* [x] Develop protocol architecture
+* [x] Prepare liquidity access module
+* [x] Determine and prepare on-chain models
+* [x] Integrate executor with Piteas Core
 * [x] Development of smart contracts
-* [ ] Completion of detailed testing and audit process
-* [ ] Finalization of UI updates
+* [ ] Complete detailed testing and audit process
+* [ ] Finalize UI updates
 * [ ] Beta release
 * [ ] Mainnet Launch
-* [ ] Completion of full integration of limit order model into Pday Openbook
+* [ ] Fully integrate limit order model into Pday Openbook
 * [ ] Release API/SDK docs
