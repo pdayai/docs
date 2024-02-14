@@ -29,7 +29,7 @@
 
 * [🛣 Roadmap](roadmap.md)
 * [📑 Contracts](contracts.md)
-* [🛡 Audit](audit.md)
+* [🛡 Audits](audits.md)
 
 ## Support
 
