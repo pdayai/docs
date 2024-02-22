@@ -9,7 +9,7 @@ Welcome to the Pday documentation, your comprehensive guide to exploring Pulsech
 \
 Pday Openbook Protocol, revolutionizing trading with a powerful OTC module, DCA set, and an AI-powered strategy portal on Pulsechain.
 
-Pday aims to consolidate a total of 1 mojor and 4 separate modules into a single platform, initially three and subsequently one, making them available to the entire Pulsechain community.
+Pday aims to consolidate a total of 1 major and 4 core products into a single platform, initially three and subsequently one, making them available to the entire Pulsechain community.
 
 * <mark style="color:blue;">**The Openbook Protocol**</mark>
 * **Advanced OTC Portal**

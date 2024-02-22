@@ -1,7 +1,7 @@
 # 🌕 Sacrifice Details
 
 {% hint style="warning" %}
-**The sacrifice process has not yet begun!**
+**The sacrifice process has not yet started!**
 
 Please only follow announcements regarding this matter through official channels/accounts and be cautious of scammers.
 {% endhint %}
@@ -22,7 +22,7 @@ Pday Sacrifice Round is designed to provide an opportunity for participants to s
 
 
 
-Get started on **Pday Sacrifice Portal** now 👇
+Get started on **Pday Sacrifice Portal** 👇
 
 Sacrifice Portal: [<mark style="color:green;">**sacrifice.pday.ai**</mark>](https://sacrifice.pday.ai) <mark style="color:green;">**✔**</mark>**  **_<mark style="color:red;">**(Not live yet!)**</mark>_
 
