@@ -22,9 +22,9 @@ Pday Sacrifice Round is designed to provide an opportunity for participants to s
 
 
 
-Get started on **Pday Sacrifice Portal** 👇
+Get started on **Pday Sacrifice Portal** now 👇
 
-Sacrifice Portal: [<mark style="color:green;">**sacrifice.pday.ai**</mark>](https://sacrifice.pday.ai) <mark style="color:green;">**✔**</mark>**  **_<mark style="color:red;">**(Not live yet!)**</mark>_
+Sacrifice Portal: [<mark style="color:green;">**sacrifice.pday.ai**</mark>](https://sacrifice.pday.ai) <mark style="color:green;">**✔**</mark>&#x20;
 
 Sacrifice Wallet: #
 
