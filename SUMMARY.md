@@ -6,10 +6,10 @@
 ## Pday Openbook
 
 * [🔖 The Openbook Protocol](pday-openbook/the-openbook-protocol.md)
-* [☑ OTC Portal](pday-openbook/otc-portal.md)
-* [☑ DCA Modules](pday-openbook/dca-module.md)
-* [☑ AI Strategy](pday-openbook/ai-strategy.md)
-* [☑ Limit Order Aggregation](pday-openbook/limit-order-aggregation.md)
+* [☑️ OTC Portal](pday-openbook/otc-portal.md)
+* [☑️ DCA Modules](pday-openbook/dca-module.md)
+* [☑️ AI Strategy](pday-openbook/ai-strategy.md)
+* [☑️ Limit Order Aggregation](pday-openbook/limit-order-aggregation.md)
 
 ## Tech
 
@@ -27,9 +27,9 @@
 
 ***
 
-* [🛣 Roadmap](roadmap.md)
+* [🛣️ Roadmap](roadmap.md)
 * [📑 Contracts](contracts.md)
-* [🛡 Audits](audits.md)
+* [🛡️ Audits](audits.md)
 
 ## Support
 
