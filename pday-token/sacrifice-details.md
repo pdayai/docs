@@ -20,17 +20,21 @@ Pday Sacrifice Round is designed to provide an opportunity for participants to s
 >
 > _In the event of any excess assets remaining from this planning process, there are three possibilities. The first is allocating assets for liquidity and treasury. The second is funding the development process of new products belonging to the Pday protocol. The final option is to fairly payback those who participated in the sacrifice round._
 
+***
 
+### Sacrifice Portal
 
 Get started on **Pday Sacrifice Portal** now 👇
 
+{% hint style="info" %}
+Please refrain from making any transfers to this address until an official announcement confirming the start of the sacrifice process is made. If you transfer to this address outside of the specified round intervals, it may not have any impact on your points!
+{% endhint %}
+
 Sacrifice Portal: [<mark style="color:green;">**sacrifice.pday.ai**</mark>](https://sacrifice.pday.ai) <mark style="color:green;">**✔**</mark>&#x20;
 
-Sacrifice Wallet: #
+Sacrifice Wallet: <mark style="color:green;">**0x010101A51A3EAFf06f2E7B5773F76E6cd3473a7f**</mark>
 
-
-
-***
+<figure><img src="../.gitbook/assets/Pday-Sacrifice - frame at 0m7s (1).jpg" alt=""><figcaption></figcaption></figure>
 
 #### Objective:
 
@@ -82,6 +86,6 @@ To avoid creating selling pressure on HEX and Pulsechain assets, we will pay all
 
 ***
 
-_Please be aware that the Pday Sacrifice Round is not intended as a profit-making endeavor, but rather a voluntary act of support for the protocol's principles. Sacrificers are voluntarily contributing without any expectations of financial gains or protocol revenue sharing. The primary goal is to support the Pday ecosystem and demonstrate a commitment to its principles and values._
-
-_Please be aware that participating in the sacrifice round carries its own risks and implications. Ensure you fully understand the terms and conditions outlined by the Pday team and seek professional advice if needed._
+> _Please be aware that the Pday Sacrifice Round is not intended as a profit-making endeavor, but rather a voluntary act of support for the protocol's principles. Sacrificers are voluntarily contributing without any expectations of financial gains or protocol revenue sharing. The primary goal is to support the Pday ecosystem and demonstrate a commitment to its principles and values._
+>
+> _Please be aware that participating in the sacrifice round carries its own risks and implications. Ensure you fully understand the terms and conditions outlined by the Pday team and seek professional advice if needed._
