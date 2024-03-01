@@ -1,6 +1,6 @@
 # 🌕 Sacrifice Details
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 **The sacrifice process has not yet started!**
 
 Please only follow announcements regarding this matter through official channels/accounts and be cautious of scammers.
