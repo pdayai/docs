@@ -34,7 +34,7 @@ Sacrifice Portal: [<mark style="color:green;">**sacrifice.pday.ai**</mark>](http
 
 Sacrifice Wallet: <mark style="color:green;">**0x010101A51A3EAFf06f2E7B5773F76E6cd3473a7f**</mark>
 
-<figure><img src="../.gitbook/assets/Pday-Sacrifice - frame at 0m7s (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Pday-Sacrifice---frame-at-0m7s.jpg" alt=""><figcaption></figcaption></figure>
 
 #### Objective:
 
