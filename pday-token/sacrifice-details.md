@@ -54,7 +54,7 @@ Please note that the Pday Sacrifice Round will be active during this period, and
 
 Only specific tokens listed in the "Accepted Assets" section will be accepted for sacrifice. Any other contributions made with unsupported tokens will not be considered for the calculation of Sacrifice Points.
 
-<figure><img src="../.gitbook/assets/token-pday-sac (1).png" alt=""><figcaption><p><strong>Accepted Assets</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/token-pday-sac.png" alt=""><figcaption><p><strong>Accepted Assets</strong></p></figcaption></figure>
 
 #### **Leaderboard Bonus Program 🎁**
 
