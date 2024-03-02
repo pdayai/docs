@@ -30,13 +30,16 @@ Piteas is a non-forked, native product developed entirely by our team, considere
 
 Ultimately, with this limited budget, we launched PTS, and as of March 2024, we believe it's necessary to share the following data.
 
-* The PTS token price is trading \~4.5x higher than the sac price.
+* The PTS token price is trading \~4.5x higher than the sac price. It could be the top-performing token among the sacrifices.
 * The TVL of token liquidities from our treasury exceeds $2,400,000.
 * In the 6 months post-TGE, PTS buybacks exceeding $500,000 in current value were made. These tokens were allocated for staking rewards.
 * In the 7-month period, Piteas has generated approximately $720,000, surpassing the sacrifice budget, 75% of which was used for protocol developments. We currently have a significant treasury.
-* Since its launch, Piteas has become the second most transaction-intensive protocol on Pulsechain.
+* Since its launch, Piteas has become the second most transaction-intensive protocol on Pulsechain. Piteas has facilitated more than 630,000[^1] swaps execution, reaching a total routed volume of $1.5B on Pulsechain.&#x20;
+* Since its launch, the protocol has been generating continuous revenue, leveraging it as token utility. Undoubtedly, the protocol's revenue has had the most significant impact on the token price of PTS Token, and this trend is expected to continue.
 
 As y'all can see from the above statistics, Piteas has made significant investments in a short period and has received increasing user numbers and protocol revenue in return. In short, while we understand and acknowledge the prejudices in the sacrifice processes; these do not apply to Piteas.
+
+You should know that we are trying to present a similar scenario for Pday as we did for Piteas. Hopefully, we have provided an explanatory and detailed explanation for any prejudices regarding the Pday sacrifice process.
 
 </details>
 
@@ -63,3 +66,5 @@ Absolutely, that's correct! Like with Piteas, we have a plan to address this iss
 Finally, we want to emphasize that we were very eager to develop and launch Pday under Piteas. Piteas has achieved tremendous success with its current economy, but we didn't have the resources or team members to develop a second project of the same scale. We've addressed many points, reviewed our income, and had frequent meetings with our developers. The Openbook model will be a massive model containing 4 core-products in total, and we didn't have the time or resources to manage both protocols flawlessly.\
 \
 **Peace!**
+
+[^1]: _March 2024 stats_
