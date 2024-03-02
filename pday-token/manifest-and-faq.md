@@ -14,9 +14,9 @@ We anticipate some questions from the community, so we want to share some of our
 
 As mentioned, each protocol will have its own accounting, so we believe it's necessary to evaluate each process separately. However, let's delve a bit deeper to address any lingering questions.
 
-This isn't a meme or hyped protocol; we're building an economy. There will be an intensive development process lasting 3-4 months, and it needs to be financed.
+This isn't a meme or hyped protocol; we're building an economy. There will be an intensive development process lasting 4-6 months, and it needs to be financed.
 
-The community has seen what we've built with Piteas with a small budget, and we receive praise for it frequently. It's clear that this time we need a bigger budget because we're hiring new talent. So far, we've agreed to contracts with 2 back-end devs, 1 front-end dev, and a computer scientist for consultancy in the AI phase. As you can imagine, the annual salaries of these individuals are high. Remember that 1inch has a core team of \~15 people and over 70 contributors; as Piteas, we've produced a product of that level with a team of 4. We'll go through a similar process for the new project. Having talented and not overly greedy developers is crucial.
+The community has seen what we've built with Piteas with a small budget, and we receive praise for it frequently. It's clear that this time we need a bigger budget because we're hiring new talent. So far, we've agreed to contracts with 2 back-end devs, 1 front-end dev, 1 server-side dev and a computer scientist for consultancy in the AI phase. As you can imagine, the annual salaries of these individuals are high. Remember that 1inch has a core team of \~15 people and over 70 contributors; as Piteas, we've produced a product of that level with a team of 4. We'll go through a similar process for the new project. Having talented and not overly greedy developers is crucial.
 
 </details>
 
