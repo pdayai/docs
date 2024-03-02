@@ -28,12 +28,12 @@ We understand the community's cautious approach to this issue, but we'd like to 
 
 Piteas is a non-forked, native product developed entirely by our team, considered one of the most difficult to develop in the DeFi space. Nevertheless, our team developed Piteas entirely using their own resources and launched it after completing all audits. This makes it the first project to be launched before a sacrifice on Pulsechain. During the sacrifice process, the community showed lower participation than expected (partly due to the SEC decision being around the same time), and we had a budget of \~$550K post-TGE. Additionally, we'd like to mention that the funds from the protocol treasury were also sacrificed.
 
-Ultimately, with this limited budget, we launched PTS, and as of February 2024, we believe it's necessary to share the following data.
+Ultimately, with this limited budget, we launched PTS, and as of March 2024, we believe it's necessary to share the following data.
 
-* The PTS token price is trading \~4x higher than the sac price.
-* The TVL of token liquidities from our treasury exceeds $2,000,000.
-* In the 6 months post-TGE, PTS buybacks exceeding $450,000 in current value were made. These tokens were allocated for staking rewards.
-* In the 7-month period, Piteas has generated approximately $650,000, surpassing the sacrifice budget, 75% of which was used for protocol developments. We currently have a significant treasury.
+* The PTS token price is trading \~4.5x higher than the sac price.
+* The TVL of token liquidities from our treasury exceeds $2,400,000.
+* In the 6 months post-TGE, PTS buybacks exceeding $500,000 in current value were made. These tokens were allocated for staking rewards.
+* In the 7-month period, Piteas has generated approximately $720,000, surpassing the sacrifice budget, 75% of which was used for protocol developments. We currently have a significant treasury.
 * Since its launch, Piteas has become the second most transaction-intensive protocol on Pulsechain.
 
 As y'all can see from the above statistics, Piteas has made significant investments in a short period and has received increasing user numbers and protocol revenue in return. In short, while we understand and acknowledge the prejudices in the sacrifice processes; these do not apply to Piteas.
