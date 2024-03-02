@@ -62,7 +62,7 @@ After the completion of the Sacrifice phase, a bonus reward will be provided to 
 
 * The 1st ranked wallet will receive an additional 15% bonus.
 * Wallets ranked 2nd to 5th will receive an additional 10% bonus.
-* Wallets ranked 5th to 10th will receive an additional 5% bonus.
+* Wallets ranked 6th to 10th will receive an additional 5% bonus.
 
 ***
 
