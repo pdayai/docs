@@ -1,4 +1,4 @@
-# 🛣 Roadmap
+# 🛣️ Roadmap
 
 Pday is a major protocol that brings together multiple complex models. Development began in January 2024 and is currently ongoing.
 
@@ -10,7 +10,7 @@ We have tried to define different stages for both the major product, Openbook Pr
 * [x] Release documentation
 * [x] Launch website
 * [x] Announce protocol details
-* [ ] Start the sacrifice process
+* [x] Start the sacrifice process
 * [ ] Deployment: Deploy token contract
 * [ ] Security: Audit for token contract
 * [ ] Launch: Token and liquidity generation event
