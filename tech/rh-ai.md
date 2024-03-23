@@ -1,7 +1,7 @@
-# 🤖 Richard-AI
+# 🤖 RH-AI
 
 {% hint style="success" %}
-The structure covering all these AI modules has been named Richard-AI; this choice was made to honor **Richard Heart**. ❤️
+The structure covering all these AI modules has been named RH-AI; this choice was made to honor **Richard Heart**. ❤️
 {% endhint %}
 
 The Pday protocol is fully equipped with AI capabilities across all major and core products.
