@@ -13,7 +13,7 @@
 
 ## Tech
 
-* [🤖 AI Modules](tech/ai-modules.md)
+* [🤖 Richard-AI](tech/richard-ai.md)
 * [🔆 Hydra FX](tech/hydra-fx.md)
 * [🦄 Order Execution](tech/order-execution.md)
 
