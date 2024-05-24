@@ -4,6 +4,10 @@ Pday is a major protocol that brings together multiple complex models. Developme
 
 We have tried to define different stages for both the major product, Openbook Protocol, and the core products. However, it should be noted that the development process often varies, and as a result, the stages outlined here may be updated.
 
+> _Update: 24 May 2024_
+
+***
+
 #### General
 
 * [x] Begin branding and marketing process
@@ -19,9 +23,9 @@ We have tried to define different stages for both the major product, Openbook Pr
 
 * [x] Initiate research process
 * [x] Develop protocol architecture
-* [ ] Determine AI models
-* [ ] Integrate model with HydraX
-* [ ] Prepare on-chain architecture
+* [x] Determine AI models
+* [x] Integrate model with HydraX
+* [x] Prepare on-chain architecture
 * [ ] Enhance UI
 * [ ] Prepare and audit contracts
 * [ ] Enter detailed testing phase for entire protocol architecture
@@ -35,7 +39,7 @@ We have tried to define different stages for both the major product, Openbook Pr
 * [x] Prepare protocol architecture
 * [x] Plan smart contracts
 * [x] Develop order entry and storage model
-* [ ] Finalize on-chain architecture
+* [x] Finalize on-chain architecture
 * [ ] Complete UI enhancements
 * [ ] Prepare and audit contracts
 * [ ] Enter detailed testing phase for entire protocol architecture
@@ -46,19 +50,19 @@ We have tried to define different stages for both the major product, Openbook Pr
 #### **Customizable DCA Module**
 
 * [x] Develop protocol architecture
-* [ ] Create smart contracts
+* [x] Create smart contracts
+* [x] Evolve strategies into user-programmable model
 * [ ] Enhance UI
 * [ ] Complete security and audit processes
 * [ ] Beta release
 * [ ] Mainnet Launch
 * [ ] Integrate module into Openbook
-* [ ] Evolve strategies into user-programmable model
 
 #### **AI Powered Strategy Portal**
 
 * [x] Develop protocol architecture
-* [ ] Define AI-powered strategies
-* [ ] Develop AI modules
+* [x] Define AI-powered strategies
+* [x] Develop AI modules
 * [ ] Integrate on-chain/off-chain and build data transfer protocol
 * [ ] Launch module
 * [ ] Evolve strategies into user-programmable model
