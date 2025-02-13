@@ -4,7 +4,7 @@ Pday is a major protocol that brings together multiple complex models. Developme
 
 We have tried to define different stages for both the major product, Openbook Protocol, and the core products. However, it should be noted that the development process often varies, and as a result, the stages outlined here may be updated.
 
-> _Latest Update: 19 Oct 2024_
+> _Latest Update: 13 Feb 2025_
 
 ***
 
@@ -15,6 +15,8 @@ We have tried to define different stages for both the major product, Openbook Pr
 * [x] Launch website
 * [x] Announce protocol details
 * [x] Start the sacrifice process
+* [x] Pre-testing stage
+* [ ] Pre-mainnet stage
 * [ ] Deployment: Deploy token contract
 * [ ] Security: Audit for token contract
 * [ ] Launch: Token and liquidity generation event
@@ -42,6 +44,7 @@ We have tried to define different stages for both the major product, Openbook Pr
 * [x] Develop order entry and storage model
 * [x] Finalize on-chain architecture
 * [x] Compile OTC modules for integration stage
+* [x] Testing modules
 * [ ] Complete UI enhancements
 * [ ] Prepare and audit contracts
 * [ ] Enter detailed testing phase for entire protocol architecture
@@ -55,6 +58,7 @@ We have tried to define different stages for both the major product, Openbook Pr
 * [x] Create smart contracts
 * [x] Evolve strategies into user-programmable model
 * [x] Compile DCA modules for pre-integration
+* [x] Testing modules
 * [ ] Enhance UI
 * [ ] Complete security and audit processes
 * [ ] Beta release
@@ -66,7 +70,8 @@ We have tried to define different stages for both the major product, Openbook Pr
 * [x] Develop protocol architecture
 * [x] Define AI-powered strategies
 * [x] Develop AI modules
-* [x] Upgrade ML structure to new version&#x20;
+* [x] Upgrade ML structure to new version
+* [x] Testing all modules
 * [ ] Integrate on-chain/off-chain and build data transfer protocol
 * [ ] Launch module
 * [ ] Evolve strategies into user-programmable model
@@ -79,6 +84,7 @@ We have tried to define different stages for both the major product, Openbook Pr
 * [x] Integrate executor with Piteas Core
 * [x] Development of smart contracts
 * [x] Compile limit order execution progress for integration
+* [x] Testing all modules
 * [ ] Complete detailed testing and audit process
 * [ ] Finalize UI updates
 * [ ] Beta release
