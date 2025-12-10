@@ -4,7 +4,7 @@ Pday is a major protocol that brings together multiple complex models. Developme
 
 We have tried to define different stages for both the major product, Openbook Protocol, and the core products. However, it should be noted that the development process often varies, and as a result, the stages outlined here may be updated.
 
-> _Latest Update: 13 Feb 2025_
+> _Latest Update: 24 Dec 2025_
 
 ***
 
@@ -20,6 +20,37 @@ We have tried to define different stages for both the major product, Openbook Pr
 * [ ] Deployment: Deploy token contract
 * [ ] Security: Audit for token contract
 * [ ] Launch: Token and liquidity generation event
+
+#### **Limit Order Aggregation Protocol**
+
+* [x] Develop protocol architecture
+* [x] Prepare liquidity access module
+* [x] Determine and prepare on-chain models
+* [x] Integrate executor with Piteas Core
+* [x] Development of smart contracts
+* [x] Compile limit order execution progress for integration
+* [x] Testing all modules
+* [ ] Complete detailed testing and audit process
+* [ ] Finalize UI updates
+* [ ] Beta release
+* [ ] Mainnet Launch
+* [ ] Fully integrate limit order model into Pday Openbook
+* [ ] Release API/SDK docs
+
+
+
+#### **Customizable DCA Module**
+
+* [x] Develop protocol architecture
+* [x] Create smart contracts
+* [x] Evolve strategies into user-programmable model
+* [x] Compile DCA modules for pre-integration
+* [x] Testing modules
+* [ ] Enhance UI
+* [ ] Complete security and audit processes
+* [ ] Beta release
+* [ ] Mainnet Launch
+* [ ] Integrate module into Openbook
 
 #### **The Openbook Protocol**
 
@@ -52,19 +83,6 @@ We have tried to define different stages for both the major product, Openbook Pr
 * [ ] Mainnet Launch
 * [ ] Integrate with the Openbook protocol
 
-#### **Customizable DCA Module**
-
-* [x] Develop protocol architecture
-* [x] Create smart contracts
-* [x] Evolve strategies into user-programmable model
-* [x] Compile DCA modules for pre-integration
-* [x] Testing modules
-* [ ] Enhance UI
-* [ ] Complete security and audit processes
-* [ ] Beta release
-* [ ] Mainnet Launch
-* [ ] Integrate module into Openbook
-
 #### **AI Powered Strategy Portal**
 
 * [x] Develop protocol architecture
@@ -76,18 +94,3 @@ We have tried to define different stages for both the major product, Openbook Pr
 * [ ] Launch module
 * [ ] Evolve strategies into user-programmable model
 
-#### **Limit Order Aggregation Protocol**
-
-* [x] Develop protocol architecture
-* [x] Prepare liquidity access module
-* [x] Determine and prepare on-chain models
-* [x] Integrate executor with Piteas Core
-* [x] Development of smart contracts
-* [x] Compile limit order execution progress for integration
-* [x] Testing all modules
-* [ ] Complete detailed testing and audit process
-* [ ] Finalize UI updates
-* [ ] Beta release
-* [ ] Mainnet Launch
-* [ ] Fully integrate limit order model into Pday Openbook
-* [ ] Release API/SDK docs
