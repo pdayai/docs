@@ -30,7 +30,7 @@ Here are some details about token allocations 👇
 
 {% hint style="success" %}
 **Piteas Loyalty Airdrop - Information**\
-_To eliminate Sybil attacks and make a fair decision, we will not share the criteria for the Piteas Loyalty Rewards airdrop at this stage. Details regarding this will be shared with the community when the time is right._
+&#xNAN;_&#x54;o eliminate Sybil attacks and make a fair decision, we will not share the criteria for the Piteas Loyalty Rewards airdrop at this stage. Details regarding this will be shared with the community when the time is right._
 {% endhint %}
 
 

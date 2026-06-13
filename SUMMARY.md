@@ -34,7 +34,6 @@
 ## Support
 
 * [🌉 Branding Sources](support/branding-sources.md)
-* [🐛 Bug Bounty](support/bug-bounty.md)
 
 ## Reference
 
